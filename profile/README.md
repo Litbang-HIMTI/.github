@@ -8,8 +8,8 @@ Divisi Penelitian dan Pengembangan
 
 ## Rebuild
 
-| Development | Status      | Docs        | Deployment      | Description                                                                               |
-| ----------- | ----------- | ----------- | --------------- | ----------------------------------------------------------------------------------------- |
-| Backend     | Done        | In progress | Haven't started | Task left is to integrate with frontend and make some tweaks if needed. After that deploy |
-| Design      | In progress | In progress | -               | -                                                                                         |
-| Frontend    | In progress | In progress | Haven't started | -                                                                                         |
+| Development | Status      | Docs        | Deployment      | Description                            |
+| ----------- | ----------- | ----------- | --------------- | -------------------------------------- |
+| Backend     | Done        | Done        | Haven't started | API documentation located in home page |
+| Design      | In progress | In progress | -               | -                                      |
+| Frontend    | In progress | In progress | Haven't started | -                                      |
