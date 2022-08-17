@@ -8,8 +8,8 @@ Divisi Penelitian dan Pengembangan
 
 ## Rebuild
 
-| Development | Status      | Docs        | Deployment      | Description                            |
-| ----------- | ----------- | ----------- | --------------- | -------------------------------------- |
-| Backend     | Done        | Done        | Haven't started | API documentation located in home page |
-| Design      | In progress | In progress |[Figma Link](https://www.figma.com/file/S9jVuF9HflMfFWui4s92g8/Himti-Website-Design?node-id=0%3A1)| - |
-| Frontend    | In progress | In progress | Haven't started | -                                      |
+| Development                                                         | Status      | Docs        | Deployment                                                                                         | Description                            |
+| ------------------------------------------------------------------- | ----------- | ----------- | -------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| [Backend](https://github.com/Litbang-HIMTI/Backend-Website-Himti)   | Done        | Done        | Haven't started                                                                                    | API documentation located in home page |
+| Design                                                              | In progress | In progress | [Figma Link](https://www.figma.com/file/S9jVuF9HflMfFWui4s92g8/Himti-Website-Design?node-id=0%3A1) | -                                      |
+| [Frontend](https://github.com/Litbang-HIMTI/Frontend-Website-Himti) | In progress | In progress | Haven't started                                                                                    | -                                      |
